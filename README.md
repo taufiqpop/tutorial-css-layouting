@@ -1,4 +1,2 @@
-# tutorial-css-layouting
-Belajar CSS Layouting
-
-## https://developer.mozilla.org/en-US/docs/Web/CSS
+# Tutorial CSS Layouting
+#### https://developer.mozilla.org/en-US/docs/Web/CSS
