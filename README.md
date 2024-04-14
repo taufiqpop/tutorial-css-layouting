@@ -1,5 +1,4 @@
-# css-lanjutan
+# tutorial-css-layouting
+Belajar CSS Layouting
 
-Belajar Pemrograman CSS Lanjutan
-
-Sumber : https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
+## https://developer.mozilla.org/en-US/docs/Web/CSS
